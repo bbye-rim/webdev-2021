@@ -10,3 +10,8 @@
 ---
 #### 과제2
 - github에 과제물 commit & push 하기
+
+---
+#### 과제3
+- css 적용하기
+- github에 과제물 commit & push 하기
